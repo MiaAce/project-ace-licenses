@@ -1,0 +1,102 @@
+{
+  "ACE-YR24-9X7K-1Q5W": {
+    "expires_at": "2027-06-03T00:00:00.000Z",
+    "hwid": "",
+    "type": "fixed"
+  },
+  "ACE-PLMA-3B8N-6V2C": {
+    "expires_at": "2027-06-03T00:00:00.000Z",
+    "hwid": "",
+    "type": "fixed"
+  },
+  "ACE-HG5F-8D2J-4M9E": {
+    "expires_at": "2027-06-03T00:00:00.000Z",
+    "hwid": "",
+    "type": "fixed"
+  },
+  "ACE-30A-K7R1-9X4P": {
+    "expires_at": "2026-07-03T00:00:00.000Z",
+    "hwid": "",
+    "type": "fixed"
+  },
+  "ACE-30B-M2N6-8V3Q": {
+    "expires_at": "2026-07-03T00:00:00.000Z",
+    "hwid": "",
+    "type": "fixed"
+  },
+  "ACE-30C-W9L4-2D7F": {
+    "expires_at": "2026-07-03T00:00:00.000Z",
+    "hwid": "",
+    "type": "fixed"
+  },
+  "ACE-30D-T1H8-5K0G": {
+    "expires_at": "2026-07-03T00:00:00.000Z",
+    "hwid": "",
+    "type": "fixed"
+  },
+  "ACE-30E-J3X7-6R9B": {
+    "expires_at": "2026-07-03T00:00:00.000Z",
+    "hwid": "",
+    "type": "fixed"
+  },
+  "ACE-10M-A1B2-C3D4": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-E5F6-G7H8": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-I9J0-K1L2": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-M3N4-O5P6": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-Q7R8-S9T0": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-U1V2-W3X4": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-Y5Z6-A7B8": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-C9D0-E1F2": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-G3H4-I5J6": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-K7L8-M9N0": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-O1P2-Q3R4": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  },
+  "ACE-10M-S5T6-U7V8": {
+    "duration_minutes": 10,
+    "hwid": "",
+    "type": "timed"
+  }
+}
