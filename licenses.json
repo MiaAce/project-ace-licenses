@@ -117,6 +117,6 @@
     "duration_minutes": 10,
     "hwid": "",
     "type": "timed",
-    "consumed": false
+    "consumed": true
   }
 }
