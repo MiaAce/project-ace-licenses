@@ -7,13 +7,13 @@
   },
   "ACE-PLMA-3B8N-6V2C": {
     "expires_at": "2027-06-03T00:00:00.000Z",
-    "hwid": "emperor4824",
+    "hwid": "",
     "type": "fixed",
     "consumed": false
   },
   "ACE-HG5F-8D2J-4M9E": {
     "expires_at": "2027-06-03T00:00:00.000Z",
-    "hwid": "",
+    "hwid": "emperor4824",
     "type": "fixed",
     "consumed": false
   },
